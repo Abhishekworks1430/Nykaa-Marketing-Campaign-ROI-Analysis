@@ -180,7 +180,7 @@ Campaigns were categorized into:
 
 ## Overall Dashboard
 
-![Dashboard]<img width="1500" height="1600" alt="nykaa_tableau_dashboard" src="https://github.com/user-attachments/assets/1a918a20-ba4f-4734-8916-44fd9e945886" />
+<img width="1500" height="1600" alt="nykaa_tableau_dashboard" src="https://github.com/user-attachments/assets/1a918a20-ba4f-4734-8916-44fd9e945886" />
 
 
 ---
