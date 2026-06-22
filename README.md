@@ -1,4 +1,4 @@
-<img width="1500" height="1600" alt="nykaa_tableau_dashboard" src="https://github.com/user-attachments/assets/b82db0b8-5540-4f9a-8e55-4d7de3a5912c" /># 💄 From Impressions to Profit: A Marketing Analytics Case Study
+/># 💄 From Impressions to Profit: A Marketing Analytics Case Study
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
 ![Excel](https://img.shields.io/badge/Tool-Excel-green)
