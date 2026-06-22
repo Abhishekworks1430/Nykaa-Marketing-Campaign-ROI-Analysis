@@ -278,14 +278,29 @@ Campaigns were categorized into:
 
 # Repository Structure
 
-```
-📂 Dataset
-📂 SQL Queries
-📂 Excel Dashboard
-📂 Images
-📄 README.md
+```text
+📦 Nykaa-Marketing-Campaign-ROI-Analysis
+│
+├── 📂 Dataset
+│
+├── 📂 SQL Queries
+│
+├── 📂 Excel Analysis
+│
+├── 📂 Images
+│
+└── 📄 README.md
 ```
 
+### Folder Details
+
+| Folder | Description |
+|----------|------------|
+| Dataset | Raw dataset containing campaign-level information |
+| SQL Queries | SQL scripts used for data cleaning, KPI engineering, and analysis |
+| Excel Analysis | Workbook containing cleaned data, pivot tables, insights, and dashboard |
+| Images | Dashboard screenshots and visualizations |
+| README.md | Project documentation and overview |
 ---
 
 # Future Improvements
